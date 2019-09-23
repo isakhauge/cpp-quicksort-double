@@ -2,7 +2,6 @@
  * Title: QuickSort
  * Author: Isak K. Hauge
  * Date: 2019.09.22
- * Description:
  * */
 
 namespace ikh {
