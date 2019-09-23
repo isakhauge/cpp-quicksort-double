@@ -5,8 +5,6 @@
  * Description:
  * */
 
-using namespace std;
-
 namespace ikh {
 
 	/**
