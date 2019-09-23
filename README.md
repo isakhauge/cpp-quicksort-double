@@ -1,8 +1,11 @@
-# Quick sort - C++
+# Quick sort in C++
 A quick sort algorithm in C++ for double values.
 
 ## Usage
 The main code is inside header file "quicksort.h".
+### Compatible data types
+* Integer
+* Double
 
 ## Methods
 ### Swap
