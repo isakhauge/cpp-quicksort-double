@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include "quicksort.h"
 
 #define N 10
@@ -16,10 +15,10 @@ void print(double arr[], int length) {
 }
 
 void startDemo() {
-	cout << "Before sort: ";
+	std::cout << "Before sort: ";
 	print(demo,N);
 	ikh::quickSort(demo, 0, N, N);
-	cout << "After sort: ";
+	std::cout << "After sort: ";
 	print(demo,N);
 }
 
