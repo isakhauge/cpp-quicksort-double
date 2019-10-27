@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "quicksort.h"
+#include "quicksort.cpp"
 
 #define N 10
 static double demo_double[N] = {6.0, 4.0, 1.0, 10.1, 20.0, 5.5, 31.2, 9.9, 0, 3.3};
